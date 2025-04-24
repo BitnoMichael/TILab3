@@ -1,0 +1,15 @@
+D:\Projects\C#\TI\Lab3\TI3\obj\Debug\TI3.csproj.AssemblyReference.cache
+D:\Projects\C#\TI\Lab3\TI3\obj\Debug\App.g.cs
+D:\Projects\C#\TI\Lab3\TI3\obj\Debug\TI3_MarkupCompile.cache
+D:\Projects\C#\TI\Lab3\TI3\obj\Debug\MainWindow.g.cs
+D:\Projects\C#\TI\Lab3\TI3\obj\Debug\TI3_MarkupCompile.lref
+D:\Projects\C#\TI\Lab3\TI3\bin\Debug\TI3.exe.config
+D:\Projects\C#\TI\Lab3\TI3\bin\Debug\TI3.exe
+D:\Projects\C#\TI\Lab3\TI3\bin\Debug\TI3.pdb
+D:\Projects\C#\TI\Lab3\TI3\obj\Debug\MainWindow.baml
+D:\Projects\C#\TI\Lab3\TI3\obj\Debug\TI3.g.resources
+D:\Projects\C#\TI\Lab3\TI3\obj\Debug\TI3.Properties.Resources.resources
+D:\Projects\C#\TI\Lab3\TI3\obj\Debug\TI3.csproj.GenerateResource.cache
+D:\Projects\C#\TI\Lab3\TI3\obj\Debug\TI3.csproj.CoreCompileInputs.cache
+D:\Projects\C#\TI\Lab3\TI3\obj\Debug\TI3.exe
+D:\Projects\C#\TI\Lab3\TI3\obj\Debug\TI3.pdb
